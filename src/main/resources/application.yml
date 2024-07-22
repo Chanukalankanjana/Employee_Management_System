@@ -4,3 +4,6 @@ spring:
     username: root
     password: Chanu123
 
+  jpa:
+    hibernate:
+      ddl-auto: update
